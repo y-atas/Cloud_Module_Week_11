@@ -40,4 +40,5 @@
 
 9- All PCs and laptops must communicate with each other in Lan-2 and with those in Lan-1.
 
-![image](https://github.com/werhereitacademy/Cloud_Module_Week_11/assets/141542413/d897aaf2-221f-4110-8c00-6b04719f965b)
+![image](https://github.com/user-attachments/assets/4ac09c13-0fd7-4cb3-9979-71dacc6ecd57)
+
